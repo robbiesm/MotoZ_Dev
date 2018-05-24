@@ -1,0 +1,5 @@
+Partlist exported at 7/24/2016 6:41 PM
+
+Qty Value           Device     Package Parts      Description                  MPN                                  SUPPLIER  
+1   NCP03XV103E05RL THERMISTOR 0201    RT903      Thmistor, NTC 10Khm 3%, 0201 NCP03XV103XV103E05RL/NTCG0603UH103HT MURARA/TDK
+2   NM              PUCK       PAD_2X3 PAD1, PAD2 test pad                                                                    

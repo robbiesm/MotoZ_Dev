@@ -1,0 +1,32 @@
+Partlist exported at 7/24/2016 6:28 PM
+
+Qty Value            Device                   Package                  Parts                                                                  Description                             MPN             SUPPLIER       
+3   0.1uF 0201       CAPACITOR.0201           0201                     C331, C332, C341                                                       Ceramic Capacitor, Generic                                             
+1   0.1uF 0402       CAPACITOR.0402           0402                     C127                                                                   Ceramic Capacitor, Generic                                             
+4   10Kohm 0201      RESISTOR.0201            0201                     R108, R307, R329, R330                                                 Resistor - Generic                                                     
+7   10uF 0603        CAPACITOR.0603           0603                     C304, C305, C308, C311, C312, C342, C343                               Ceramic Capacitor, Generic                                             
+1   15pF 0201        CAPACITOR.0201           0201                     C355                                                                   Ceramic Capacitor, Generic                                             
+2   18pF 0201        CAPACITOR.0201           0201                     C353, C356                                                             Ceramic Capacitor, Generic                                             
+1   18pF 0402        CAPACITOR.0402           0402                     C313                                                                   Ceramic Capacitor, Generic                                             
+1   1Kohm 0201       RESISTOR.0201            0201                     R122                                                                   Resistor - Generic                                                     
+1   1uF 0201         CAPACITOR.0201           0201                     C110                                                                   Ceramic Capacitor, Generic                                             
+1   1uH 3.5A 2016    POWER-INDUCTOR.2016      2016                     L340                                                                   Inductor, Power                                                        
+2   22uF 0805        CAPACITOR.0805           0805                     C302, C303                                                             Ceramic Capacitor, Generic                                             
+2   22uF 1206        CAPACITOR.1206           1206                     C345, C346                                                             Ceramic Capacitor, Generic                                             
+1   ASP-193073-01    FTMH-140-02-L-DV-ES-P-TR FTMH-140-02-L-DV-ES-P-TR P102                                                                   MICRO SOCKET, 1.0MM, SMD, 2X40WAY, MALE ASP-193073-01   SAMTEC         
+1   BR24G16NUX-3     EEPROMDFN8               DFN-8                    U105                                                                   I2C EE PROM, 8 pin                      BR24G16NUX-3    ROHM           
+1   MAX809SQ293D1T1G MAX809                   SC70-3L                  U120                                                                   3-Pin Microprocessor Reset Circuit      MAX809SQ293D1T1 ON-SEMI        
+2   ME_BOM           PUCK.PUCK                PUCK                     M358, M359                                                             test pad                                refer to ME BOM refer to ME BOM
+2   ME_BOM           SHIELDDETECT             PLUG                     DETECT_1, DETECT_2                                                     Shield, Custom                          refer to ME BOM ref to ME BOM  
+2   MM5Z16VT1        DIODE.SOD523             SOD523                   D301, D310                                                             DIODE GENERIC, single, 2 pin            MM5Z16VT1       ON_SEMI        
+1   NM               CAPACITOR.0201           0201                     C350                                                                   Ceramic Capacitor, Generic                                             
+2   NM               CAPACITOR.0402           0402                     C344, C347                                                             Ceramic Capacitor, Generic                                             
+2   NM               SHORT_BAR.0603           0603_SHORT               E351, E352                                                             SHORT BAR - layout feature                                             
+6   NM               TPSTP11R                 TP11R                    EE_GND1, EE_GND2, EE_PWR, EE_SCL, EE_SDA, EE_WP                        TEST Point, 1mm diameter, gold                                         
+1   RYM002N05        FET-NRYM002N05           VMT3                     Q121                                                                   Generic NMOS FET                        RYM002N05       ROHM           
+1   SML-P12VT        LED.0503                 0503.LED                 D123                                                                   LED GENERIC, single, 2 pin              SML-P12VT       ROHM           
+1   TFA9890AUK       TFA9890AUK               BGA7X7                   U320                                                                   Audio Power amplifier                   TFA9890AUK      NXP            
+1   TPS22914BYFPR    TPS22914BYFPR            BGA0_75SQ_PS0_4_P4       U300                                                                   5V load switch                          TPS22914BYFPR   TI             
+2   TPSTP11R         TPSTP11R                 TP11R                    DEMO_EN, VBST                                                          TEST Point, 1mm diameter, gold                                         
+2   UCLAMP1211Z      ESD_TVS.0201             CHIP_0201                VR354, VR357                                                           GENERIC TVS,single, 2 pin               UCLAMP1211Z     SEMTECH        
+12  VS5V0BN1EST15R   ESD_VARISTOR.0201        CHIP_0201                D124, D125, D126, D306, D321, D322, D323, D324, D325, D326, D327, D328 GENERIC varistor,single, 2 pin          VS5V0BN1EST15R  ROHM           
